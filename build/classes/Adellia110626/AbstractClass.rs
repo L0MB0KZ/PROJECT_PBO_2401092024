@@ -1,8 +1,0 @@
-Adellia110626.Shape
-PBo110626.Circle
-Adellia110626.AbstractClass
-PBo110626.square
-Adellia110626.Circle
-PBo110626.AbstractClass
-Adellia110626.square
-PBo110626.Shape

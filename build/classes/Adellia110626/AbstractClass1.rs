@@ -1,8 +1,0 @@
-Adellia110626.AbstractClass1
-Adellia110626.Kendaraan
-Adellia110626.Motor
-PBo110626.Mobil
-Adellia110626.Mobil
-PBo110626.Motor
-PBo110626.AbstractClass1
-PBo110626.Kendaraan
